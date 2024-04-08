@@ -1,21 +1,21 @@
 leftnav:
-- identifier: external--1180594484-1684528534515
+- identifier: 9a980034-8092-4f28-b266-9d315ebf6656
   name: About Terrascope
-  url: https://terrascope.mit.edu/overview/
+  pageRef: /external-resources/about-terrascope_9a980034-8092-4f28-b266-9d315ebf6656
   weight: 10
-- identifier: external-882483468-1687000588413
+- identifier: 790fb91a-82c7-404c-85f3-f30ad1e9206f
   name: Solving Complex Problems
-  url: https://terrascope.mit.edu/portfolio_page/12-000/
+  pageRef: /external-resources/solving-complex-problems_790fb91a-82c7-404c-85f3-f30ad1e9206f
   weight: 20
-- identifier: external--114607211-1687000711291
+- identifier: c46605fc-94b7-4344-8f1b-37fc534b26cc
   name: Design for Complex Environmental Issues
-  url: https://terrascope.mit.edu/portfolio_page/1-016/
+  pageRef: /external-resources/design-for-complex-environmental-issues_c46605fc-94b7-4344-8f1b-37fc534b26cc
   weight: 30
-- identifier: external-1103286771-1687000615595
+- identifier: 9c8a2707-dd2c-4e38-b10e-cc2a68577717
   name: Terrascope Radio
-  url: https://terrascope.mit.edu/portfolio_page/sp-360/
+  pageRef: /external-resources/terrascope-radio_9c8a2707-dd2c-4e38-b10e-cc2a68577717
   weight: 40
-- identifier: external-1611017699-1684528590488
+- identifier: cf7ed524-ac32-4c02-b124-7048f438cd2b
   name: Past Years' Topics
-  url: https://terrascope.mit.edu/past-years-topics/
+  pageRef: /external-resources/past-years-topics_cf7ed524-ac32-4c02-b124-7048f438cd2b
   weight: 50
