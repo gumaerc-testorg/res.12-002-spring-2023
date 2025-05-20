@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-12-002-terrascope-spring-2023/mitres_12_002_s23_chp.jpg
+file: courses/terrascope/mitres_12_002_s23_chp.jpg
 file_size: 140154
 file_type: image/jpeg
 image_metadata:
